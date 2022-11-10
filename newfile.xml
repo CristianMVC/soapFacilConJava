@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+    <S:Body>
+        <ns2:C21ASConsSociosPorEjecResponse xmlns:ns2="T24WebServicesImpl">
+            <Status>
+                <successIndicator>Success</successIndicator>
+            </Status>
+            <BCCLEASCONSSOCIOSXEJECType>
+                <gBCCLEASCONSSOCIOSXEJECDetailType>
+                    <mBCCLEASCONSSOCIOSXEJECDetailType>
+                        <messages>OK</messages>
+                        <codigoCrecer></codigoCrecer>
+                    </mBCCLEASCONSSOCIOSXEJECDetailType>
+                </gBCCLEASCONSSOCIOSXEJECDetailType>
+            </BCCLEASCONSSOCIOSXEJECType>
+        </ns2:C21ASConsSociosPorEjecResponse>
+    </S:Body>
+</S:Envelope>
